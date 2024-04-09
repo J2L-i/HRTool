@@ -1,0 +1,11 @@
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.exe.config
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.exe
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.pdb
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.csproj.AssemblyReference.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.Dashboard.resources
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.Properties.Resources.resources
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.csproj.GenerateResource.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.csproj.CoreCompileInputs.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.exe
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.pdb

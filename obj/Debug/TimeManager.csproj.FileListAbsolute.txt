@@ -1,0 +1,33 @@
+L:\csharp\TimeManager\TimeManager\bin\Debug\TimeManager.exe.config
+L:\csharp\TimeManager\TimeManager\bin\Debug\TimeManager.exe
+L:\csharp\TimeManager\TimeManager\bin\Debug\TimeManager.pdb
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.AssemblyReference.cache
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.SuggestedBindingRedirects.cache
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.Properties.Resources.resources
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.GenerateResource.cache
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.CoreCompileInputs.cache
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.exe
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.pdb
+L:\csharp\TimeManager\TimeManager\obj\Debug\TimeManager.Dashboard.resources
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\bin\Debug\TimeManager.exe.config
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\bin\Debug\TimeManager.exe
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\bin\Debug\TimeManager.pdb
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.AssemblyReference.cache
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.Dashboard.resources
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.Properties.Resources.resources
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.GenerateResource.cache
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.CoreCompileInputs.cache
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.exe
+C:\Users\sir_k\Downloads\finaltimemanager\TimeManager\TimeManager\obj\Debug\TimeManager.pdb
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.exe.config
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.exe
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\bin\Debug\HRTool.pdb
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.AssemblyReference.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.Dashboard.resources
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.Properties.Resources.resources
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.GenerateResource.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.CoreCompileInputs.cache
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.exe
+C:\Users\Tonnifer\Downloads\timemanager (1)\TimeManager\TimeManager\obj\Debug\HRTool.pdb
